@@ -1,4 +1,4 @@
-# myproject
+# myproject : vue脚手架搭建的最基础项目
 
 > this is my project for learn vue 
 
